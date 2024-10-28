@@ -1,4 +1,10 @@
-weave==0.51.12
-cohere==5.11.0
-rich==13.9.2
+wandb==0.18.5
+weave==0.51.17
+cohere==5.11.1
+rich==13.9.3
 python-dotenv==1.0.1
+nltk==3.9.1
+python-frontmatter==1.1.0
+beautifulsoup4==4.12.3
+bm25s==0.2.3
+PyStemmer==2.2.0.3
